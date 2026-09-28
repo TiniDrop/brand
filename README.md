@@ -13,9 +13,8 @@ Press kit for [tinidrop.com](https://tinidrop.com). Do not alter the mark, add e
 | [`logos/tinidrop-icon.png`](logos/tinidrop-icon.png) | App icon, rounded square, purple |
 | [`logos/tinidrop-icon-500.png`](logos/tinidrop-icon-500.png) | 500px directory listing |
 | [`logos/tinidrop-icon-560.png`](logos/tinidrop-icon-560.png) | 560px directory listing |
-| [`banner.png`](banner.png) | Social / cover |
 
-Clear space: keep padding around the icon at least 20% of its width. On dark backgrounds, use the purple tile as-is. Do not place the white glyph on a light background without the purple tile.
+Keep empty space around the icon of at least 20% of its width. On dark backgrounds, use the purple tile as-is. Do not put the white glyph on a light background without the purple tile.
 
 ## Color
 
@@ -32,7 +31,7 @@ Clear space: keep padding around the icon at least 20% of its width. On dark bac
 
 ## Voice
 
-Short, specific, founder-to-founder. Lead with the outcome (the link got opened, the pages got read). Avoid “all-in-one” and “revolutionary.”
+Short. Say what happened (who opened the link, which pages). Skip slogans.
 
 ## Contact
 
